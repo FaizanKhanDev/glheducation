@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.glheducation.app",
+    "sha256_cert_fingerprints":
+    ["23:A7:35:B1:B5:0A:6E:0B:22:2C:0C:10:68:94:C1:1A:11:48:37:77:A8:97:0E:5A:E7:9D:5C:44:07:F7:AE:E5"]
+  }
+}]
